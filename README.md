@@ -1,6 +1,6 @@
 # 💫About Me :
 
-Hey I am a Programmer passionate about software development
+I'm Kaustubh Pathak, a 21-year old technical enthusiast ,Passionate about Problem Solving(Data Structures & Algorithms ) and Development
 
 
 
