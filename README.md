@@ -1,3 +1,8 @@
+### ✍️Developer Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+[![](https://visitcount.itsvg.in/api?id=kaustubh0777&icon=9&color=1)](https://visitcount.itsvg.in)
+
 # 💫About Me :
 
 I'm Kaustubh Pathak, a 21-year old technical enthusiast ,Passionate about Problem Solving(Data Structures & Algorithms ) and Development
@@ -17,8 +22,5 @@ I'm Kaustubh Pathak, a 21-year old technical enthusiast ,Passionate about Proble
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaustubh0777&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=kaustubh0777&icon=9&color=1)](https://visitcount.itsvg.in)
+
