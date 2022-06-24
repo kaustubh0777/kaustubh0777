@@ -6,7 +6,7 @@
 # 💫About Me :
 
 I'm Kaustubh Pathak, a 21-year old technical enthusiast ,Passionate about Problem Solving(Data Structures & Algorithms ) and Development
-<a href="https://portfolio-app-0777.herokuapp.com/">My Portfolio</a>
+<a href="https://kaustubh0777.netlify.app/">My Portfolio</a>
 
 
 
