@@ -5,7 +5,7 @@
 
 # 💫About Me :
 
-I'm Kaustubh Pathak, a 21-year old technical enthusiast ,Passionate about Problem Solving(Data Structures & Algorithms ) and Development
+I'm Kaustubh Pathak, a 23-year old technical enthusiast ,Passionate about Problem Solving(Data Structures & Algorithms ) and Development
 <a href="https://kaustubh0777.netlify.app/">My Portfolio</a>
 
 
